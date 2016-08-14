@@ -4,7 +4,9 @@
 Intermediate.  I have written two stand-alone applications in .NET, have taken a formal class in the very similar C&#35;, and have quite a bit of OOP experience with several other languages, so intermediate it is.
 
 ##Disclaimer
-The applications within this repo were both written during my tenure while working for a company outsourced by **Apple, Inc.** to manufacture the **Mac Pro**.  NDA redactions ahoy!
+In early 2014 I decided to use my own recognizance to 1) learn a little VB.NET and 2) apply said knowledge to make my life as a software support technician a bit easier.
+
+Written in early 2014, they are apparently still being used by the Apple Engineers that just so happened to stumble upon their use while I was seemingly less busy doing more enjoyable things.  And with that said, NDA redactions ahoy!
 
 ##Projects
 ###FolderMonitoringTool...
@@ -17,7 +19,7 @@ The applications within this repo were both written during my tenure while worki
 
 The SMT (surface mount technology) database generates .xml files to pass information from one machine / process to the next.  At the end of each procedure, if all went well, those .xml files were then parsed back into the database. If all did not go well, those files would either bottleneck at the process where the error occurred or, even worse, populate the database with incorrect data.
 
-After spending a few days manually opening 30 different remote directories and keeping a constant eye on them, I decided to automate that process. The result is this application, which monitors any directory specified by the user, throwing visual alerts should any specified thresholds occur.  Written in early 2014, it was my first .NET application and, according to a cohort that still works there, is still being used as of 2016.
+After spending a few days manually opening 30 different remote directories and keeping a constant eye on them, I decided to automate that process. The result is this application, which monitors any directory specified by the user, throwing visual alerts should any specified thresholds occur.
 
 ---
 
