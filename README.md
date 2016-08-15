@@ -19,7 +19,9 @@ After spending a few days manually opening 30 different remote directories and k
 
 ---
 
-###RemoteServicesManager
+###Behold! The RemoteServicesManager
+
+![](images/RemoteServicesControl.jpg)
 
 Several times a day, certain server-based processes would get hung and need to be remotely restarted.  The process was easy enough, but it took longer than I thought it should (firing up the virtual machine, network latency, etc.).  Plus, if there were too many people logged into said server you had to find out who was logged in and then ask them to log out (if they were done doing whatever it was that they were doing).  So, to alleviate my frustrations, and also for kicks, I decided to see what I could do.
 
