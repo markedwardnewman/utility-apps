@@ -11,7 +11,7 @@ Written in early 2014, they are apparently still being used by the Apple Enginee
 
 ![](images/FolderMonitoringTool_options.jpg)
 
-###...which I just now renamed to *Meerkat Tunneling Application*
+###...which I just now renamed to *Meerkat Tunneler*
 
 It is state-of-the-art manufacturing facility, and their SMT (surface mount technology) database generates .xml files to pass information from one machine / process to the next.  At the end of each procedure, if all is well, those .xml files are then parsed back into the database. If all did not go well, those files either bottleneck at the process where the error occurs or, even worse, populates the database with incorrect data.
 
