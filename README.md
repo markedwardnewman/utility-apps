@@ -1,9 +1,10 @@
 ##Two stand-alone utility applications...
 
-###Disclaimer
-In early 2014 I decided to use my own recognizance to 1) learn a little VB.NET and 2) apply said knowledge to make my life as a software support technician a bit easier.
+**"All this aggravation ain't satisfactioning me"**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Elvis Presley
 
-Written in early 2014, they are apparently still being used by the Apple Engineers that just so happened to stumble upon their use while I was seemingly less busy doing more enjoyable things.  And with that said, NDA redactions ahoy!
+###Disclaimer
+In early 2014 I decided to learn a little vb.net to make my life as a sys admin a little easier. As of 2017, both of the resulting programs are still being used to assist in the manufacturing of **Apple's** flagship desktop computer, **[The Mac Pro](https://www.apple.com/mac-pro/)**. The code you see is the gist of both programs (without all the scaffolded stuff). Also, rest assured that no NDAs were harmed in the making of this repository.
 
 ###Behold! The FolderMonitoringTool...
 
