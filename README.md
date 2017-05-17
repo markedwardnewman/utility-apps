@@ -32,4 +32,4 @@ The FolderMonitoringTool.exe knows which folders to monitor by reading the paths
 
 *****Please send your thoughts, gripes, and / or suggestions to  **[ultrapolite@gmail.com](mailto:ultrapolite@gmail.com)** Thanks!
 
-# **[Buy it now for $10 USD](https://www.paypal.com/webapps/hermes?token=40R61793NC623023Y&useraction=commit&rm=1&mfid=1495010866256_43081e6ec4357#/checkout/login)**
+# **[Buy it now for $10 USD](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZW7SSXL8RAAHQ)**
